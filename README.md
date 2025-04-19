@@ -2,7 +2,7 @@
 ![Hub genes](output_0_3.png)
 **Figure- Hub Gene Networks**
 
-This repository demonstrates how to build and compare co-expression networks using RNA-seq data. The code processes read-count data (control vs. mutant samples), constructs correlation-based gene networks, computes various network statistics, identifies hub genes, and provides comparisons across conditions.
+This repository demonstrates how to build and compare co-expression networks using RNA-seq data from one of my papers [Dash et.al 2023](https://doi.org/10.1093/plphys/kiad465). The code processes read-count data (control vs. mutant samples), constructs correlation-based gene networks, computes various network statistics, identifies hub genes, and provides comparisons across conditions.
 
 ---
 
