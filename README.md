@@ -1,6 +1,6 @@
 # RNAseq Co-Expression Network Analysis
 ![Hub genes](output_0_3.png)
-**Hub Gene Analysis**
+**Figure- Hub Gene Networks**
 
 This repository demonstrates how to build and compare co-expression networks using RNA-seq data. The code processes read-count data (control vs. mutant samples), constructs correlation-based gene networks, computes various network statistics, identifies hub genes, and provides comparisons across conditions.
 
